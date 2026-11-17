@@ -1,0 +1,6 @@
+{
+  "name": "VIP da Nicolly",
+  "description": "Espaço exclusivo VIP da Nicolly com autenticação obrigatória, gestão de assinaturas, integração oficial Mercado Pago, envio de comprovantes e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
